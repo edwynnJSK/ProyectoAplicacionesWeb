@@ -1,3 +1,0 @@
-INDEX VERSION 1.134
-C:\git\ProyectoAplicacionesWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3624817719.index
-\MiChaucherita\src\main\java
